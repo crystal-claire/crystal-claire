@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0,2&height=300&section=header&text=GDSC&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3,4&height=300&section=header&text=GDSC&fontSize=90)
 
