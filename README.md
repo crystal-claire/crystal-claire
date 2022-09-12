@@ -38,7 +38,7 @@
 <div align=center>
  
 ### 🕊 CONTECT 🕊
-📮  **Sujeong's email >> ** [![Gmail Badge](https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:crystalline0329@naver.com)](mailto:crystalline0329@naver.com) <br>
+📮  Sujeong's email >>  [![Gmail Badge](https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:crystalline0329@naver.com)](mailto:crystalline0329@naver.com) <br>
 
  
   
