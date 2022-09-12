@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:ddd6f3,100:faaca8&height=300&section=header&text=HI,I'M%20SUJEONG&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:ddd6f3,100:faaca8&height=300&section=header&text=CRYSTAL%20-%20CLAIRE&fontSize=90)
 
 <!-- 맘에드는 컬러 
 &color=0:B993D6,100:8CA6DB
@@ -46,7 +46,7 @@
  
 ### How to reach me? 🤔
 📮  **Sujeong's email ...** [![Gmail Badge](https://img.shields.io/badge/naver-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crysatlline0329@naver.com)](mailto:crysatlline0329@naver.com) <br>
- <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Naver</title><path d="M16.273 12.845 7.376 0H0v24h7.726V11.156L16.624 24H24V0h-7.727v12.845Z"/></svg>
+ 
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyodii&count_bg=%23A2E9FF&title_bg=%23C6C6C6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
