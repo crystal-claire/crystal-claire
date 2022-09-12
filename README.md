@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:ddd6f3,100:faaca8&height=300&section=header&text=HI,I'M%20HYOJIN&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:ddd6f3,100:faaca8&height=300&section=header&text=HI,I'M%20SUJEONG&fontSize=90)
 
 <!-- 맘에드는 컬러 
 &color=0:B993D6,100:8CA6DB
