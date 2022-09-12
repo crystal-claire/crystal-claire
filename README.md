@@ -18,7 +18,7 @@
 <!--<br><b>Hi there! I'm wep developer using Java Spring. </b>-->
 
   
-<h3>💘Tech Stack💘</h3>
+<h3> 🛠 Tech Stack 🛠</h3>
 <p align="center">
 <!-- 색상명 붙여넣을때 앞에 # 떼주기! &nbsp 한칸띄기 -->
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
