@@ -41,6 +41,12 @@
 📲💻📚📓📫📪📬📭✉📧📨📩📝📌  Sujeong's email >>  [![Gmail Badge](https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:crystalline0329@naver.com)](mailto:crystalline0329@naver.com) <br>
 
  
+ 
+ 
+ 
+ 
+ 
+ <br><br>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcrystal-claire&count_bg=%23A2E9FF&title_bg=%23C6C6C6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
