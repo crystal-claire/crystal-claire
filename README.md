@@ -42,10 +42,7 @@
 
 📓 PORTFOLIO >>  [![Notion Badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white&link=mailto:https://opposite-kale-8e3.notion.site/About-SuJeong-25bae4bc09e9474cb6bcaf7d27fe1101)](mailto:https://opposite-kale-8e3.notion.site/About-SuJeong-25bae4bc09e9474cb6bcaf7d27fe1101) <br>
  
- 
- 
- https://opposite-kale-8e3.notion.site/About-SuJeong-25bae4bc09e9474cb6bcaf7d27fe1101
- 
+  
  
  <br><br>
   
