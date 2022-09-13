@@ -40,7 +40,7 @@
 ### 🕊 CONTECT 🕊
 📫 EMAIL >>  [![Gmail Badge](https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:crystalline0329@naver.com)](mailto:crystalline0329@naver.com) <br>
 
-📓 PORTFOLIO >>  ![[Notion Badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white&link=mailto:https://hyodii9736.notion.site/e1881db6460c4f02be94ef9abdcf1ac6)](mailto:https://hyodii9736.notion.site/e1881db6460c4f02be94ef9abdcf1ac6) <br>
+📓 PORTFOLIO >>  [![Notion Badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white&link=mailto:https://hyodii9736.notion.site/e1881db6460c4f02be94ef9abdcf1ac6)](mailto:https://hyodii9736.notion.site/e1881db6460c4f02be94ef9abdcf1ac6) <br>
  
  
  
