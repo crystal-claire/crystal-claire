@@ -31,17 +31,16 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 </p>
 
-</div>
+</div> 
 <br>
  
 
 <div align=center>
  
 ### 🕊 CONTECT 🕊
-📫 Sujeong's email >>  [![Gmail Badge](https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:crystalline0329@naver.com)](mailto:crystalline0329@naver.com) <br>
+📫 EMAIL >>  [![Gmail Badge](https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:crystalline0329@naver.com)](mailto:crystalline0329@naver.com) <br>
 
-
-💌📲💻📚📓📪📬📭✉📧📨📩📝📌
+📓 PORTFOLIO >> 
  
  
  
