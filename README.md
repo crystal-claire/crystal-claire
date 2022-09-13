@@ -40,7 +40,7 @@
 ### 🕊 CONTECT 🕊
 📫 EMAIL >>  [![Gmail Badge](https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:crystalline0329@naver.com)](mailto:crystalline0329@naver.com) <br>
 
-📓 PORTFOLIO >>  ![로고명](https://img.shields.io/badge/Notion-white.svg?&style=for-the-badge&logo=Notion&logoColor=000000) <br>
+📓 PORTFOLIO >>  ![로고명](https://img.shields.io/badge/Notion-lightgray.svg?&style=for-the-badge&logo=Notion&logoColor=000000) <br>
  
  
  
