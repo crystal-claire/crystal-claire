@@ -42,7 +42,7 @@
 <div align=center>
  
 ### 🕊 CONTECT 🕊  
-📫 EMAIL >>  ![Gmail Badge](https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:crystalline0329@naver.com)
+📫 EMAIL >>  <a href="crystalline0329@naver.com">![Gmail Badge](https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:crystalline0329@naver.com)
  
 📓 PORTFOLIO >>  <a href="https://opposite-kale-8e3.notion.site/About-SuJeong-25bae4bc09e9474cb6bcaf7d27fe1101">![Notion Badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white&link=mailto:https://opposite-kale-8e3.notion.site/About-SuJeong-25bae4bc09e9474cb6bcaf7d27fe1101) 
  
