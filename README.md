@@ -2,11 +2,7 @@
 
 
 
-<!-- 맘에드는 컬러 
-&color=0:B993D6,100:8CA6DB
-&color=0:ddd6f3,100:faaca8
-&color=0:9796f0,100:fbc7d4
-
+<!--   
 다른컬러 구경하기 https://github.com/kyechan99/capsule-render/blob/master/src/gradient.json
 -->
 
